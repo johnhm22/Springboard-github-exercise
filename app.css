@@ -8,10 +8,10 @@ body {
 
 
 h1 {
-    font-size: 15rem;
+    font-size: 17rem;
     font-family: 'Montserrat', sans-serif;
 }
 
 .letter {
-    transition: color 1000ms;
+    transition: color 500ms;
 }
